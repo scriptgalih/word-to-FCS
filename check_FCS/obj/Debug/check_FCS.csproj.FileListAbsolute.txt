@@ -1,0 +1,10 @@
+E:\06.Latihan\visualStudio\check_FCS\bin\Debug\check_FCS.exe.config
+E:\06.Latihan\visualStudio\check_FCS\bin\Debug\check_FCS.exe
+E:\06.Latihan\visualStudio\check_FCS\bin\Debug\check_FCS.pdb
+E:\06.Latihan\visualStudio\check_FCS\obj\Debug\check_FCS.csprojResolveAssemblyReference.cache
+E:\06.Latihan\visualStudio\check_FCS\obj\Debug\check_FCS.Form1.resources
+E:\06.Latihan\visualStudio\check_FCS\obj\Debug\check_FCS.Properties.Resources.resources
+E:\06.Latihan\visualStudio\check_FCS\obj\Debug\check_FCS.csproj.GenerateResource.cache
+E:\06.Latihan\visualStudio\check_FCS\obj\Debug\check_FCS.csproj.CoreCompileInputs.cache
+E:\06.Latihan\visualStudio\check_FCS\obj\Debug\check_FCS.exe
+E:\06.Latihan\visualStudio\check_FCS\obj\Debug\check_FCS.pdb
